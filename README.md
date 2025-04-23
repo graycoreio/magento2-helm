@@ -1,21 +1,27 @@
-# Magento 2 Helm
+# Magento 2 Helm Chart (Archived)
 
-A Configurable Helm Chart for a Production Grade Kubernetes Cluster for Magento 2
+This project began as an open-source initiative to simplify Magento 2 deployments using Helm. While it served as a foundational idea, it has since evolved into a more robust and feature-rich solution.​
 
-## Purpose
-Running Magento 2 can be a complex task that requires incredible knowledge of internal mechanisms of Magento. This helm chart aims to simplify that complexity and make installing highly available Magento 2 applications onto your IaaS Provider as a choice as painless as possible.
+## Introducing Mappia
+We are excited to present [Mappia](https://www.mappia.io), a production-grade Helm chart designed specifically for Magento 2. Mappia offers a comprehensive set of features to streamline your Magento infrastructure:​
 
+- Autoscaling: Automatically adjusts resources based on traffic demand.
+- Environment Consistency: Ensures uniformity across development, staging, and production environments.
+- Automation: Reduces manual intervention with automated workflows for deployments and maintenance.
+- Maintenance: Simplifies long-term management with standardized configurations.
+- Cloud Native: Built to leverage modern cloud architecture principles.
+- Infrastructure-Agnostic: Deploy across various cloud platforms without vendor lock-in.
+- Automated Rollouts and Rollbacks: Smooth updates with the ability to revert if issues are detected.
+- Self-Healing: Ensures high availability with automatic service recovery.​
 
-## Goals
-* Opinionated Helm Chart with best practices and sane defaults built in.
-* Security by default
-* Highly Available
-* Configurable
-* Easy to use
-* IaaS Provider Agnostic
+Mappia is designed to save engineering time and provide a reliable, scalable infrastructure for Magento 2.​
 
-## Get Involved
-This is a Magento Community Engineering project. As such, all members of the community are welcomed. If you want to get in touch, there are a few options:
+Learn More
 
-* [Gitter](https://gitter.im/magento2-helm/community)
-* [Slack](https://magentocommeng.slack.com/messages/CJ5E3AVFX/#helm)
+- 🌐 Visit [Mappia.io](https://www.mappia.io/)
+- 📄 [Documentation](https://docs.mappia.io/)
+- 💬 [Join the Community](https://chat.mappia.io/)
+- 📅 [Schedule a Demo](https://calendar.app.google/DWSEgd6Fc17iVRnd9)
+
+Note: Magento® is a registered trademark of Adobe Inc. Mappia is not associated with Adobe® or Magento® in any way.​
+
