@@ -1,6 +1,8 @@
 # Magento 2 Helm Chart (Archived)
 
-This project began as an open-source initiative to simplify Magento 2 deployments using Helm. While it served as a foundational idea, it has since evolved into a more robust and feature-rich solution.​
+> [!IMPORTANT]  
+> This project began as an open-source initiative to simplify Magento 2 deployments using Helm. While it served as a foundational idea, it has since evolved into a more robust and feature-rich solution: Mappia.
+
 
 [![Mappia - A production-grade Helm Chart for Magento 2](https://www.mappia.io/assets/mappia-full-logo-light.svg "Mappia")](https://www.mappia.io/)
 
